@@ -1,0 +1,33 @@
+block-inline{
+  display: inline-block;
+  vertical-align: top;
+  padding: 200px;}
+
+#block1{
+  margin-top: 50px;
+  background: rgba(0,2,255,0.6);
+  height: 120px;
+  width: 80px
+}
+
+#block2{
+  margin-top: 25px;
+  
+  background: rgba(0,255,0,0.6);
+  height: 105px;
+  width: 90px;
+} 
+
+#lines1{
+  margin-top: 25px;
+  margin-right:25px;
+  background: rgba(255,0,0,0.6);
+  height: 105px;
+  width: 90px;
+}
+
+#Milieu{
+  background:#ff00a2;
+  height:20px;
+  width:5000px; 
+}
